@@ -5,6 +5,7 @@
 
 ## Main developer & Maintainer
 > Jing Xu 
+
 > Cite the code: [![DOI](https://zenodo.org/badge/458896150.svg)](https://zenodo.org/badge/latestdoi/458896150)
 
 ## Contact
